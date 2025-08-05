@@ -7,8 +7,8 @@ It includes a simple setup with Vite, Tailwind CSS, and TypeScript configuration
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/telnyx-voice-ai-lib-example.git
-   cd telnyx-voice-ai-lib-example
+   git clone https://github.com/your-username/telnyx-ai-agent-lib-example.git
+   cd telnyx-ai-agent-lib-example
    ```
 2. Install dependencies:
    ```bash
